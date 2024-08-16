@@ -1,1 +1,1 @@
-hola
+Esta es el repositorio de Luis Picón e Israel Astudillo de Laboratorio de Herramientas del MDS del semestre de otoño del 2024.
