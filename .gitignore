@@ -1,2 +1,4 @@
 temp/
 *.csv
+env/
+catboost_info/
